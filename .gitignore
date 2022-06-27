@@ -1,0 +1,15 @@
+### https://linuxize.com/post/gitignore-ignoring-files-in-git/
+
+# Generated Files
+*.pyc
+.idea
+.vscode/
+
+# Logs
+logs
+*.log
+
+# Project
+*.debug
+settings.py
+/downloader/downloaded
